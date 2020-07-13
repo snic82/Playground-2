@@ -58,3 +58,12 @@ Ex: price = 3
     price = 3
     print("The apple costs " +str(price)+ "dollars")
 ```
+>>Type Conversion: int()
+```
+You also can't perform calculations with a string and an integer.
+You have to convert the string to an integer using int().
+Ex: count = 3
+    price = 100
+    total_price = price * int(count)
+    print(total_price)
+```
