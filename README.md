@@ -36,4 +36,7 @@ To store a value in a variable, you need to define a variable. You can do this i
 Ex: name = 'JOHN'
       OR
     number = 34
+NAMING A VARIABLE:
+You can pick any name for variables, but there are some rules. For example, you cannot start a variable name with a number. Also, when a variable name contains more than two words, like user_name, you should separate them with _.
+Ex: data     OR      user_name
 ```
