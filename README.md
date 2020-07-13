@@ -13,3 +13,10 @@ Sol: print("Hello This is my First Python program.")
 Adding # at the beginning will make the entire line a comment.
 Comments will not be executed when running code, so you can use them to leave notes.
 ```
+>>INTEGERS
+```
+You can use numbers like integers in programming. Unlike strings, they don't need to be enclosed in quotes. You can add and subtract integers just like you do in math. The spaces before and after operators are not required, but they will make the code easier to read.
+Ex: print(3+5)
+      OR
+    print(2 + 4)
+```
