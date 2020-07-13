@@ -67,3 +67,59 @@ Ex: count = 3
     total_price = price * int(count)
     print(total_price)
 ```
+>>The if-statement
+```
+By using the if statement, you can write code that gets executed only under a satisfied condition. You can create if statements by writing if, followed by a conditional expression and a colon :. The code on the next line will only run when the condition is true.
+Ex: score = 100
+    if score == 100:
+    print('Great Job!')
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
