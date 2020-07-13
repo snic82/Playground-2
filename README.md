@@ -40,3 +40,11 @@ NAMING A VARIABLE:
 You can pick any name for variables, but there are some rules. For example, you cannot start a variable name with a number. Also, when a variable name contains more than two words, like user_name, you should separate them with _.
 Ex: data     OR      user_name
 ```
+>>STRING CONCATENATION
+```
+The + operator that we used for calculations also lets us combine strings. Combining strings is called string concatenation. String concatenation can be used with strings and variables that have string values.
+Ex: print("Hello" + " World")
+      OR
+    name = JOHN
+    print("My name is" +name)
+```
