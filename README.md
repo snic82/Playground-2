@@ -20,3 +20,10 @@ Ex: print(3+5)
       OR
     print(2 + 4)
 ```
+>>DIFFERENCE BETWEEN STRINGS AND INTEGERS
+```
+Strings and integers are interpreted differently in programming. Like the images below, 3 + 5 will print 8, which is the result of the addition. However, if you enclose it in quotes and make it a string, the output will stay as 3 + 5.
+Ex: print(3+4)
+      OR
+    print('3+4')
+```
