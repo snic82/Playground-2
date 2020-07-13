@@ -1,5 +1,6 @@
 # Playground-2
 > Python Practice Programs
+
 >>STRINGS
 ```
 In a python program when printing statements it needs to be in quotation either in single or double but printing a statement without a quotation gives an error.
@@ -26,4 +27,13 @@ Strings and integers are interpreted differently in programming. Like the images
 Ex: print(3+4)
       OR
     print('3+4')
+```
+>>VARIABLES
+```
+A variable is like a box with a name in which you can store a value.
+DEFINING A VARIABLE:
+To store a value in a variable, you need to define a variable. You can do this in the following format: variable_name = value. The = operator in Python does not mean "equal". This assignment operator means assign the value on the right to the variable on the left. Note that variable names don't need to be enclosed in quotes.
+Ex: name = 'JOHN'
+      OR
+    number = 34
 ```
