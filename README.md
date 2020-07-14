@@ -74,7 +74,11 @@ Ex: score = 100
     if score == 100:
       print('Great Job!')
 ```
-
+>>STRUCTURING DATA
+```
+Let's learn how to manage a group of data with a single variable. When there is a list of food names, for example, it is not so efficient to manage them with separate variables, like food1, food2, food3.
+It is better to have a foods variable to manage the whole list.
+```
 
 
 
