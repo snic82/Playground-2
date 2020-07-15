@@ -53,7 +53,7 @@ Ex: print("Hello" + " World")
 Like the image on the left, you can't concatenate strings and integers because they have different data types. In order to concatenate different types of data, you have to perform type conversion. In the example below, you first have to convert the integer to a string, using str().
 Ex: price = 3
     print("The apple costs " +price+ "dollars") 
-    #the above statement shows an error.
+    #the above statement shows an error
     
     price = 3
     print("The apple costs " +str(price)+ "dollars")
