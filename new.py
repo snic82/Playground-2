@@ -1,1 +1,1 @@
-# new simple python
+# new simple python program
