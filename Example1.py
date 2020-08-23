@@ -1,5 +1,6 @@
 >Write a program that calculates your shopping cost.
 
+
 apple_price = 2
 money = 10
 input_count = input('How many apples do you want?: ')
