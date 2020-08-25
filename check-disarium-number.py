@@ -25,3 +25,6 @@ if(sum == n):
     print(str(n) + " is a disarium number");    
 else:    
     print(str(n) + " is not a disarium number");    
+
+    
+    
